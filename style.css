@@ -1,0 +1,219 @@
+body{
+    background-color: #E5E5E5;
+   
+}
+
+.header-area{
+    font-family: 'Yeseva One', cursive;
+    display: flex;
+
+}
+.header-area h1{
+    font-family: 'Yeseva One', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 60px;
+    line-height: 80px;
+}
+
+.header-area p{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+span{
+    color:goldenrod
+}
+
+.anchor-button{
+    text-decoration: none;
+    background: goldenrod;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img{
+    width: 100%;
+}
+
+.mission-title{
+    margin-top:5%;
+    margin-bottom: 5%;
+    font-family: 'Yeseva One', cursive;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 32px;
+    
+}
+
+.dream-area{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.mission-area{
+    background: #4F9DA61A;
+   ;
+   Width: 360px;
+   Height: 376px;
+   Height: 376px;
+   Top: 711px;
+   padding-left: 24px;
+   border-Radius: 26px;
+   margin-right: 19px;
+
+}
+
+.mission-area img{
+    Width: 141px;
+    Height: 141px;
+
+}
+
+.vission-area{
+    background: #FF59591A;
+    Width: 360px;
+    Height: 376px;
+    Top: 711px;
+    Left: 161px;
+    padding-left: 24px;
+    border-Radius: 26px;
+    margin-right: 19px;
+
+}
+.vission-area img{
+    Width: 141px;
+    Height: 141px;
+
+}
+
+.goal-area{
+    background: #FFF4D6;
+    Width: 360px;
+    Height: 376px;
+    Top: 711px;
+    Left: 161px;
+    padding-left: 24px;
+    border-Radius: 26px;
+    
+          
+}
+.goal-area img{
+    Width: 141px;
+    Height: 141px;
+
+}
+
+
+.Develop-area{
+    font-family: 'Poppins', sans-serif;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    margin: 10%;
+}
+
+.Develop-area img{
+    Width: 400px;
+    Height: 400px;
+    border-Radius: 26px;
+}
+
+.Develop-area h2{
+    font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 54px;
+}
+.Develop-area p{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+}
+.photo-area{
+    width: 50%;
+    
+}
+.text-area{
+    
+    Width: 654px;
+    Height: 311px;
+}
+.know-community{
+    font-family: 'Poppins', sans-serif;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    margin: 10%;
+}
+
+.know-community img{
+    width: 100%;
+}
+.know-community h2{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+}
+
+.know-community p{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+footer{
+
+    background-color:  #0B0D17;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-area{
+    padding: 25px;
+}
+.footer-area h2{ 
+    font-family: Lobster;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 44px;
+    color: white;
+
+}
+
+.footer-area p{ 
+    font-family: Lobster;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: white;
+}
